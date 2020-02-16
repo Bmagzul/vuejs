@@ -1,0 +1,68 @@
+hello-world/.DS_Store
+hello-world/node_modules
+hello-world/dist
+
+# local env files
+hello-world/.env.local
+hello-world/.env.*.local
+
+# Log files
+hello-world/npm-debug.log*
+hello-world/yarn-debug.log*
+hello-world/yarn-error.log*
+
+# Editor directories and files
+hello-world/.idea
+hello-world/.vscode
+hello-world/*.suo
+hello-world/*.ntvs*
+hello-world/*.njsproj
+hello-world/*.sln
+hello-world/*.sw?
+
+
+
+kiri/.DS_Store
+kiri/node_modules
+kiri/dist
+
+# local env files
+kiri/.env.local
+kiri/.env.*.local
+
+# Log files
+kiri/npm-debug.log*
+kiri/yarn-debug.log*
+kiri/yarn-error.log*
+
+# Editor directories and files
+kiri/.idea
+kiri/.vscode
+kiri/*.suo
+kiri/*.ntvs*
+kiri/*.njsproj
+kiri/*.sln
+kiri/*.sw?
+
+
+test/.DS_Store
+test/node_modules
+test/dist
+
+# local env files
+test/.env.local
+test/.env.*.local
+
+# Log files
+test/npm-debug.log*
+test/yarn-debug.log*
+test/yarn-error.log*
+
+# Editor directories and files
+test/.idea
+test/.vscode
+test/*.suo
+test/*.ntvs*
+test/*.njsproj
+test/*.sln
+test/*.sw?
